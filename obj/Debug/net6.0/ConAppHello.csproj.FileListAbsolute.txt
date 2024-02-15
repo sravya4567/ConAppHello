@@ -1,0 +1,14 @@
+C:\phase4\Day3\ConAppHello\ConAppHello\bin\Debug\net6.0\ConAppHello.exe
+C:\phase4\Day3\ConAppHello\ConAppHello\bin\Debug\net6.0\ConAppHello.deps.json
+C:\phase4\Day3\ConAppHello\ConAppHello\bin\Debug\net6.0\ConAppHello.runtimeconfig.json
+C:\phase4\Day3\ConAppHello\ConAppHello\bin\Debug\net6.0\ConAppHello.dll
+C:\phase4\Day3\ConAppHello\ConAppHello\bin\Debug\net6.0\ConAppHello.pdb
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.AssemblyInfoInputs.cache
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.AssemblyInfo.cs
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.csproj.CoreCompileInputs.cache
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.dll
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\refint\ConAppHello.dll
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.pdb
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ConAppHello.genruntimeconfig.cache
+C:\phase4\Day3\ConAppHello\ConAppHello\obj\Debug\net6.0\ref\ConAppHello.dll
